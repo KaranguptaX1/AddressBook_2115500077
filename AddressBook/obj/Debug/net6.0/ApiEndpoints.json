@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[ModelLayer.Model.Contact, ModelLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ModelLayer.DTO.ContactDTO, ModelLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -28,14 +28,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "contact",
-        "Type": "ModelLayer.Model.Contact",
+        "Name": "dto",
+        "Type": "ModelLayer.DTO.CreateContactDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "ModelLayer.Model.Contact",
+        "Type": "ModelLayer.DTO.ContactDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -61,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "ModelLayer.Model.Contact",
+        "Type": "ModelLayer.DTO.ContactDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -85,8 +85,8 @@
         "IsRequired": true
       },
       {
-        "Name": "contact",
-        "Type": "ModelLayer.Model.Contact",
+        "Name": "dto",
+        "Type": "ModelLayer.DTO.UpdateContactDTO",
         "IsRequired": true
       }
     ],

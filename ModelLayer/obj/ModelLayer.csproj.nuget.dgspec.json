@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AddressBook\\AddressBook\\ModelLayer\\ModelLayer.csproj": {}
+    "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\ModelLayer.csproj": {}
   },
   "projects": {
-    "D:\\AddressBook\\AddressBook\\ModelLayer\\ModelLayer.csproj": {
+    "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\ModelLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AddressBook\\AddressBook\\ModelLayer\\ModelLayer.csproj",
+        "projectUniqueName": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\ModelLayer.csproj",
         "projectName": "ModelLayer",
-        "projectPath": "D:\\AddressBook\\AddressBook\\ModelLayer\\ModelLayer.csproj",
+        "projectPath": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\ModelLayer.csproj",
         "packagesPath": "C:\\Users\\Ishika\\.nuget\\packages\\",
-        "outputPath": "D:\\AddressBook\\AddressBook\\ModelLayer\\obj\\",
+        "outputPath": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

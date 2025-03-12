@@ -2,65 +2,46 @@ using Microsoft.AspNetCore.Mvc;
 using RepositoryLayer.Context;
 using ModelLayer.Model;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+using BusinessLayer.Interface;
+using ModelLayer.DTO;
 namespace AddressBook.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
 public class AddressBookController : ControllerBase
 {
-    private readonly AddressBookContext _context;
-    public AddressBookController(AddressBookContext context)
+    //private readonly AddressBookContext _context;
+    private readonly IAddressBookBL _addressBookBL;
+    public AddressBookController(IAddressBookBL addressBookBL)
     {
-        _context = context;
+        _addressBookBL = addressBookBL;
     }
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Contact>>> GetContacts()
+    public async Task<ActionResult<IEnumerable<ContactDTO>>> GetContacts()
     {
-        return await _context.Contacts.ToListAsync();
+        return Ok(await _addressBookBL.GetAllContacts());
     }
     [HttpGet("{id}")]
-    public async Task<ActionResult<Contact>> GetContactId(int id)
+    public async Task<ActionResult<ContactDTO>> GetContactId(int id)
     {
-        var result = await _context.Contacts.FirstOrDefaultAsync(x => x.Id == id);
-        if (result == null)
-        {
-            return NotFound();
-        }
-        return Ok(result);
+        var contact = await _addressBookBL.GetContactById(id);
+        return contact == null ? NotFound() : Ok(contact);
     }
     [HttpPost]
-    public async Task<ActionResult<Contact>> AddContact(Contact contact)
+    public async Task<ActionResult<ContactDTO>> AddContact(CreateContactDTO dto)
     {
-        _context.Contacts.Add(contact);
-        await _context.SaveChangesAsync();
-        return CreatedAtAction(nameof(GetContactId), new { id = contact.Id }, contact);
+        var createdContact = await _addressBookBL.AddContact(dto);
+        return CreatedAtAction(nameof(GetContactId), new { id = createdContact.Id }, createdContact);
     }
     [HttpPut("{id}")]
-    public async Task<IActionResult> UpdateContact(int id, Contact contact)
+    public async Task<IActionResult> UpdateContact(int id, UpdateContactDTO dto)
     {
-        var existingContact = await _context.Contacts.FindAsync(id);
-        if (existingContact == null) 
-        { 
-            return NotFound(); 
-        }
-        if (id != contact.Id) 
-        {
-            return BadRequest(); 
-        }
-        _context.Entry(contact).State = EntityState.Modified;
-        await _context.SaveChangesAsync();
-        return NoContent();
+        return await _addressBookBL.UpdateContact(id, dto) ? NoContent() : NotFound();
     }
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteContact(int id)
     {
-        var result = await _context.Contacts.FindAsync(id);
-        if (result == null)
-        {
-            return NotFound();
-        }
-        _context.Contacts.Remove(result);
-        await _context.SaveChangesAsync();
-        return NoContent();
+        return await _addressBookBL.DeleteContact(id) ? NoContent() : NotFound();
     }
 }

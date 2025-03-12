@@ -3322,11 +3322,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AddressBook\\AddressBook\\RepositoryLayer\\RepositoryLayer.csproj",
+      "projectUniqueName": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\RepositoryLayer\\RepositoryLayer.csproj",
       "projectName": "RepositoryLayer",
-      "projectPath": "D:\\AddressBook\\AddressBook\\RepositoryLayer\\RepositoryLayer.csproj",
+      "projectPath": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\RepositoryLayer\\RepositoryLayer.csproj",
       "packagesPath": "C:\\Users\\Ishika\\.nuget\\packages\\",
-      "outputPath": "D:\\AddressBook\\AddressBook\\RepositoryLayer\\obj\\",
+      "outputPath": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\RepositoryLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3347,8 +3347,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\AddressBook\\AddressBook\\ModelLayer\\ModelLayer.csproj": {
-              "projectPath": "D:\\AddressBook\\AddressBook\\ModelLayer\\ModelLayer.csproj"
+            "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\ModelLayer.csproj": {
+              "projectPath": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\ModelLayer.csproj"
             }
           }
         }

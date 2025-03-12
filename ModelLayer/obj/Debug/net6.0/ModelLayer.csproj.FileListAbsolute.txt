@@ -12,3 +12,17 @@ D:\AddressBook\AddressBook\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
 D:\AddressBook\AddressBook\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
 D:\AddressBook\AddressBook\ModelLayer\obj\Debug\net6.0\ModelLayer.genruntimeconfig.cache
 D:\AddressBook\AddressBook\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\bin\Debug\net6.0\ModelLayer.runtimeconfig.json
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.AssemblyReference.cache
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\obj\Debug\net6.0\ModelLayer.genruntimeconfig.cache
+D:\AddressBook_2115500077\AddressBook_2115500077\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll

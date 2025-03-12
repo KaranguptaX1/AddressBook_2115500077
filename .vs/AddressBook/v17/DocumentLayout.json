@@ -1,45 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AddressBook\\AddressBook\\",
+  "WorkspaceRootPath": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D145DAE-9B07-46F1-919B-9310FA62EC9F}|AddressBook\\AddressBook.csproj|d:\\addressbook\\addressbook\\addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D145DAE-9B07-46F1-919B-9310FA62EC9F}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|d:\\addressbook\\addressbook\\modellayer\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|d:\\addressbook\\addressbook\\modellayer\\dto\\updatecontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\dto\\updatecontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|d:\\addressbook\\addressbook\\modellayer\\dto\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\dto\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|d:\\addressbook\\addressbook\\modellayer\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D145DAE-9B07-46F1-919B-9310FA62EC9F}|AddressBook\\AddressBook.csproj|d:\\addressbook\\addressbook\\addressbook\\controllers\\addressbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D145DAE-9B07-46F1-919B-9310FA62EC9F}|AddressBook\\AddressBook.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\addressbook\\controllers\\addressbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D145DAE-9B07-46F1-919B-9310FA62EC9F}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\controllers\\addressbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D145DAE-9B07-46F1-919B-9310FA62EC9F}|AddressBook\\AddressBook.csproj|d:\\addressbook\\addressbook\\addressbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6D145DAE-9B07-46F1-919B-9310FA62EC9F}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{108741B6-0C25-41C7-A40A-ACE609AA749E}|BusinessLayer\\BusinessLayer.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\businesslayer\\service\\addressbookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108741B6-0C25-41C7-A40A-ACE609AA749E}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\addressbookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{108741B6-0C25-41C7-A40A-ACE609AA749E}|BusinessLayer\\BusinessLayer.csproj|d:\\addressbook\\addressbook\\businesslayer\\interface\\iaddressbookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\modellayer\\dto\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\dto\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108741B6-0C25-41C7-A40A-ACE609AA749E}|BusinessLayer\\BusinessLayer.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\businesslayer\\validators\\createcontactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108741B6-0C25-41C7-A40A-ACE609AA749E}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validators\\createcontactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D145DAE-9B07-46F1-919B-9310FA62EC9F}|AddressBook\\AddressBook.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D145DAE-9B07-46F1-919B-9310FA62EC9F}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108741B6-0C25-41C7-A40A-ACE609AA749E}|BusinessLayer\\BusinessLayer.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\businesslayer\\interface\\iaddressbookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{108741B6-0C25-41C7-A40A-ACE609AA749E}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interface\\iaddressbookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4622CD8B-1C36-4A9B-B732-7BA894EA0543}|RepositoryLayer\\RepositoryLayer.csproj|d:\\addressbook\\addressbook\\repositorylayer\\context\\addressbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{108741B6-0C25-41C7-A40A-ACE609AA749E}|BusinessLayer\\BusinessLayer.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\businesslayer\\validators\\updatecontactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108741B6-0C25-41C7-A40A-ACE609AA749E}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validators\\updatecontactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\modellayer\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\modellayer\\dto\\updatecontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\dto\\updatecontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\modellayer\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D145DAE-9B07-46F1-919B-9310FA62EC9F}|AddressBook\\AddressBook.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\addressbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D145DAE-9B07-46F1-919B-9310FA62EC9F}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4622CD8B-1C36-4A9B-B732-7BA894EA0543}|RepositoryLayer\\RepositoryLayer.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\repositorylayer\\context\\addressbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4622CD8B-1C36-4A9B-B732-7BA894EA0543}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\context\\addressbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|d:\\addressbook\\addressbook\\modellayer\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|d:\\addressbook_2115500077\\addressbook_2115500077\\modellayer\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{450BB3AC-23C2-42EC-9B04-48646C19A1DC}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,41 +62,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\AddressBook\\AddressBook\\ModelLayer\\Mappings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "ModelLayer\\Mappings\\MappingProfile.cs",
-              "ToolTip": "D:\\AddressBook\\AddressBook\\ModelLayer\\Mappings\\MappingProfile.cs",
-              "RelativeToolTip": "ModelLayer\\Mappings\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Title": "AddressBookBL.cs",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\BusinessLayer\\Service\\AddressBookBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Service\\AddressBookBL.cs",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\BusinessLayer\\Service\\AddressBookBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Service\\AddressBookBL.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T07:44:56.837Z",
+              "WhenOpened": "2025-03-12T10:29:00.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateContactDTO.cs",
-              "DocumentMoniker": "D:\\AddressBook\\AddressBook\\ModelLayer\\DTO\\UpdateContactDTO.cs",
-              "RelativeDocumentMoniker": "ModelLayer\\DTO\\UpdateContactDTO.cs",
-              "ToolTip": "D:\\AddressBook\\AddressBook\\ModelLayer\\DTO\\UpdateContactDTO.cs",
-              "RelativeToolTip": "ModelLayer\\DTO\\UpdateContactDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "UpdateContactValidator.cs",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\BusinessLayer\\Validators\\UpdateContactValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Validators\\UpdateContactValidator.cs",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\BusinessLayer\\Validators\\UpdateContactValidator.cs",
+              "RelativeToolTip": "BusinessLayer\\Validators\\UpdateContactValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T07:41:57.712Z",
+              "WhenOpened": "2025-03-12T10:24:35.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CreateContactValidator.cs",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\BusinessLayer\\Validators\\CreateContactValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Validators\\CreateContactValidator.cs",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\BusinessLayer\\Validators\\CreateContactValidator.cs",
+              "RelativeToolTip": "BusinessLayer\\Validators\\CreateContactValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:02:22.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\AddressBook\\Program.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Program.cs",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\AddressBook\\Program.cs",
+              "RelativeToolTip": "AddressBook\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:41:58.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressBookController.cs",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\AddressBook\\Controllers\\AddressBookController.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Controllers\\AddressBookController.cs",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\AddressBook\\Controllers\\AddressBookController.cs",
+              "RelativeToolTip": "AddressBook\\Controllers\\AddressBookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:38:24.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CreateContactDTO.cs",
-              "DocumentMoniker": "D:\\AddressBook\\AddressBook\\ModelLayer\\DTO\\CreateContactDTO.cs",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\DTO\\CreateContactDTO.cs",
               "RelativeDocumentMoniker": "ModelLayer\\DTO\\CreateContactDTO.cs",
-              "ToolTip": "D:\\AddressBook\\AddressBook\\ModelLayer\\DTO\\CreateContactDTO.cs",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\DTO\\CreateContactDTO.cs",
               "RelativeToolTip": "ModelLayer\\DTO\\CreateContactDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,36 +144,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ContactDTO.cs",
-              "DocumentMoniker": "D:\\AddressBook\\AddressBook\\ModelLayer\\DTO\\ContactDTO.cs",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\DTO\\ContactDTO.cs",
               "RelativeDocumentMoniker": "ModelLayer\\DTO\\ContactDTO.cs",
-              "ToolTip": "D:\\AddressBook\\AddressBook\\ModelLayer\\DTO\\ContactDTO.cs",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\DTO\\ContactDTO.cs",
               "RelativeToolTip": "ModelLayer\\DTO\\ContactDTO.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAlwA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T07:39:39.206Z",
+              "WhenOpened": "2025-03-12T07:39:39.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAddressBookBL.cs",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\BusinessLayer\\Interface\\IAddressBookBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interface\\IAddressBookBL.cs",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\BusinessLayer\\Interface\\IAddressBookBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Interface\\IAddressBookBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:20:54.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAddressBookBL.cs",
-              "DocumentMoniker": "D:\\AddressBook\\AddressBook\\BusinessLayer\\Interface\\IAddressBookBL.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Interface\\IAddressBookBL.cs",
-              "ToolTip": "D:\\AddressBook\\AddressBook\\BusinessLayer\\Interface\\IAddressBookBL.cs",
-              "RelativeToolTip": "BusinessLayer\\Interface\\IAddressBookBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "UpdateContactDTO.cs",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\DTO\\UpdateContactDTO.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\DTO\\UpdateContactDTO.cs",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\DTO\\UpdateContactDTO.cs",
+              "RelativeToolTip": "ModelLayer\\DTO\\UpdateContactDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:20:54.176Z"
+              "WhenOpened": "2025-03-12T07:41:57.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "ModelLayer\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:44:56.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Contact.cs",
-              "DocumentMoniker": "D:\\AddressBook\\AddressBook\\ModelLayer\\Model\\Contact.cs",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\Model\\Contact.cs",
               "RelativeDocumentMoniker": "ModelLayer\\Model\\Contact.cs",
-              "ToolTip": "D:\\AddressBook\\AddressBook\\ModelLayer\\Model\\Contact.cs",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\ModelLayer\\Model\\Contact.cs",
               "RelativeToolTip": "ModelLayer\\Model\\Contact.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,24 +205,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AddressBook\\AddressBook\\AddressBook\\Program.cs",
-              "RelativeDocumentMoniker": "AddressBook\\Program.cs",
-              "ToolTip": "D:\\AddressBook\\AddressBook\\AddressBook\\Program.cs",
-              "RelativeToolTip": "AddressBook\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:41:58.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "AddressBookContext.cs",
-              "DocumentMoniker": "D:\\AddressBook\\AddressBook\\RepositoryLayer\\Context\\AddressBookContext.cs",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\RepositoryLayer\\Context\\AddressBookContext.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Context\\AddressBookContext.cs",
-              "ToolTip": "D:\\AddressBook\\AddressBook\\RepositoryLayer\\Context\\AddressBookContext.cs",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\RepositoryLayer\\Context\\AddressBookContext.cs",
               "RelativeToolTip": "RepositoryLayer\\Context\\AddressBookContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,28 +217,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\AddressBook\\AddressBook\\AddressBook\\appsettings.json",
+              "DocumentMoniker": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\AddressBook\\appsettings.json",
               "RelativeDocumentMoniker": "AddressBook\\appsettings.json",
-              "ToolTip": "D:\\AddressBook\\AddressBook\\AddressBook\\appsettings.json",
+              "ToolTip": "D:\\AddressBook_2115500077\\AddressBook_2115500077\\AddressBook\\appsettings.json",
               "RelativeToolTip": "AddressBook\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-10T13:39:09.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddressBookController.cs",
-              "DocumentMoniker": "D:\\AddressBook\\AddressBook\\AddressBook\\Controllers\\AddressBookController.cs",
-              "RelativeDocumentMoniker": "AddressBook\\Controllers\\AddressBookController.cs",
-              "ToolTip": "D:\\AddressBook\\AddressBook\\AddressBook\\Controllers\\AddressBookController.cs",
-              "RelativeToolTip": "AddressBook\\Controllers\\AddressBookController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:38:24.809Z",
-              "EditorCaption": ""
             }
           ]
         }
